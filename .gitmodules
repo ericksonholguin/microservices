@@ -1,0 +1,15 @@
+[submodule "apps/account"]
+	path = apps/account
+	url = https://github.com/ericksonholguin/account.git
+[submodule "apps/authentication"]
+	path = apps/authentication
+	url = https://github.com/ericksonholguin/authentication.git
+[submodule "apps/invoices"]
+	path = apps/invoices
+	url = https://github.com/ericksonholguin/invoices.git
+[submodule "apps/products"]
+	path = apps/products
+	url = https://github.com/ericksonholguin/products.git
+[submodule "apps/users"]
+	path = apps/users
+	url = https://github.com/ericksonholguin/users.git
